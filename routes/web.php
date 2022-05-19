@@ -14,9 +14,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::get('/', function () {
+    return view('home');
+});
 
 Route::prefix('org')->group(function(){
     Route::get("settings", [SettingController::class, "organization"])->name('org-settings');
