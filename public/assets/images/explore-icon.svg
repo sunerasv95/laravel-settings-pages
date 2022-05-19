@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="14px" height="14px" viewbox="0 0 14 14" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="noun_explore_2076426">
+    <g id="Group">
+      <path d="M11.2 11.2L11.2 7L12.6 7L12.6 12.6L0 12.6L0 0L4.9 0L4.9 1.4L1.4 1.4L1.4 11.2L11.2 11.2Z" transform="translate(0 1.4)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L6.3 0L6.3 1.4L0 1.4L0 0Z" transform="translate(4.2 9.8)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L1.4 0L1.4 1.4L0 1.4L0 0Z" transform="translate(2.1 9.8)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L1.4 0L1.4 1.4L0 1.4L0 0Z" transform="translate(2.1 4.2)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L1.4 0L1.4 1.4L0 1.4L0 0Z" transform="translate(4.2 4.2)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L1.4 0L1.4 1.4L0 1.4L0 0Z" transform="translate(2.1 7)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L4.2 0L4.2 1.4L0 1.4L0 0Z" transform="translate(4.2 7)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M3.15 4.9C4.1165 4.9 4.9 4.1165 4.9 3.15C4.9 2.1835 4.1165 1.4 3.15 1.4C2.1835 1.4 1.4 2.1835 1.4 3.15C1.4 4.1165 2.1835 4.9 3.15 4.9L3.15 4.9ZM5.81697 4.82702L7.66482 6.67487L6.67487 7.66482L4.82702 5.81697C4.34141 6.12296 3.76638 6.3 3.15 6.3C1.4103 6.3 0 4.8897 0 3.15C0 1.4103 1.4103 0 3.15 0C4.8897 0 6.3 1.4103 6.3 3.15C6.3 3.76638 6.12296 4.34141 5.81697 4.82702L5.81697 4.82702Z" transform="translate(6.2999997 0)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

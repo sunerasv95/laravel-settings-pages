@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="22px" height="22px" viewbox="0 0 22 22" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="notification-3-line">
+    <g id="Group">
+      <path d="M0 0L22 0L22 22L0 22L0 0Z" id="Shape" fill="none" fill-rule="evenodd" stroke="none" />
+      <path d="M16.5 13.75L18.3333 13.75L18.3333 15.5833L0 15.5833L0 13.75L1.83333 13.75L1.83333 7.33333C1.83333 3.28324 5.11658 0 9.16667 0C13.2168 0 16.5 3.28325 16.5 7.33333L16.5 13.75L16.5 13.75ZM14.666 13.7507L14.666 7.33398C14.666 4.29642 12.2036 1.83398 9.16602 1.83398C6.12845 1.83398 3.66602 4.29642 3.66602 7.33399L3.66602 13.7507L14.666 13.7507L14.666 13.7507ZM6.41602 17.416L11.916 17.416L11.916 19.2493L6.41602 19.2493L6.41602 17.416L6.41602 17.416Z" transform="translate(1.8339844 1.8339844)" id="Shape" fill="#252B3B" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

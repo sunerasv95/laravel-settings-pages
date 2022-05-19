@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="14px" height="14px" viewbox="0 0 14 14" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.92156863 0 0 0 0 0.50980395 0 0 0 0 0.25882354 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="noun_explore_2076426" filter="url(#filter_1)">
+    <g id="Group">
+      <path d="M11.2 11.2L11.2 7L12.6 7L12.6 12.6L0 12.6L0 0L4.9 0L4.9 1.4L1.4 1.4L1.4 11.2L11.2 11.2Z" transform="translate(0 1.3999023)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L6.3 0L6.3 1.4L0 1.4L0 0Z" transform="translate(4.199951 9.799805)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L1.4 0L1.4 1.4L0 1.4L0 0Z" transform="translate(2.0999756 9.799805)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L1.4 0L1.4 1.4L0 1.4L0 0Z" transform="translate(2.0999756 4.2001953)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L1.4 0L1.4 1.4L0 1.4L0 0Z" transform="translate(4.199951 4.2001953)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L1.4 0L1.4 1.4L0 1.4L0 0Z" transform="translate(2.0999756 7)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L4.2 0L4.2 1.4L0 1.4L0 0Z" transform="translate(4.199951 7)" id="Polygon" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M3.15002 4.8999C4.11652 4.8999 4.90002 4.1164 4.90002 3.1499C4.90002 2.1834 4.11652 1.3999 3.15002 1.3999C2.18353 1.3999 1.40002 2.1834 1.40002 3.1499C1.40002 4.1164 2.18353 4.8999 3.15002 4.8999L3.15002 4.8999ZM5.81697 4.82702L7.66482 6.67487L6.67487 7.66482L4.82702 5.81697C4.34141 6.12296 3.76638 6.3 3.15 6.3C1.4103 6.3 0 4.8897 0 3.15C0 1.4103 1.4103 0 3.15 0C4.8897 0 6.3 1.4103 6.3 3.15C6.3 3.76638 6.12296 4.34141 5.81697 4.82702L5.81697 4.82702Z" transform="translate(6.300049 0)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

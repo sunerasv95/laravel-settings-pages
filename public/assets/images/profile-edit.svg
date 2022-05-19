@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="25px" height="25px" viewbox="0 0 25 25" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Edit">
+    <path d="M0 12.5C0 5.59644 5.59644 0 12.5 0C19.4036 0 25 5.59644 25 12.5C25 19.4036 19.4036 25 12.5 25C5.59644 25 0 19.4036 0 12.5Z" id="Ellipse" fill="#EB8242" fill-rule="evenodd" stroke="none" />
+    <g id="pencil" transform="translate(5 5)">
+      <path d="M0 0L15 0L15 15L0 15L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+      <path d="M11.0689 2.52656C11.3127 2.28281 11.3127 1.87656 11.0689 1.64531L9.60645 0.182812C9.3752 -0.0609374 8.96895 -0.0609374 8.72519 0.182812L7.5752 1.32656L9.91895 3.67031M0 8.90779L0 11.2515L2.34375 11.2515L9.25625 4.33279L6.9125 1.98904L0 8.90779L0 8.90779Z" transform="translate(1.875 1.8734741)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

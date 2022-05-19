@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-2">
+    <path d="M0 21C0 9.40202 9.40202 0 21 0C32.598 0 42 9.40202 42 21C42 32.598 32.598 42 21 42C9.40202 42 0 32.598 0 21Z" id="Ellipse" fill="#FCD9BF" fill-rule="evenodd" stroke="none" />
+    <path d="M26.1012 15.0938L19.2503 21.9721L15.8989 18.6072L13.4419 21.0743L19.2489 26.9063L28.5581 17.5599L26.1012 15.0938Z" id="Polygon" fill="#EB8242" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

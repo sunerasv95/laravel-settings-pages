@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="18px" height="18px" viewbox="0 0 18 18" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="trash-can">
+    <path d="M0 0L18 0L18 18L0 18L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M3.75 0L3.75 0.75L0 0.75L0 2.25L0.75 2.25L0.75 12C0.75 12.8284 1.42157 13.5 2.25 13.5L9.75 13.5C10.5784 13.5 11.25 12.8284 11.25 12L11.25 2.25L12 2.25L12 0.75L8.25 0.75L8.25 0L3.75 0M3.75 3.75L5.25 3.75L5.25 10.5L3.75 10.5L3.75 3.75M6.75 3.75L8.25 3.75L8.25 10.5L6.75 10.5L6.75 3.75L6.75 3.75Z" transform="translate(3 2.25)" id="Shape" fill="#505D69" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Ellipse-2">
+    <path d="M0 16C0 7.16344 7.16344 0 16 0C24.8366 0 32 7.16344 32 16C32 24.8366 24.8366 32 16 32C7.16344 32 0 24.8366 0 16Z" id="bg" fill="#5A6978" fill-opacity="0.2509804" fill-rule="evenodd" stroke="none" />
+    <g id="user-2-fill" transform="translate(8 8)">
+      <g id="Group">
+        <path d="M0 0L14.4 0L14.4 14.4L0 14.4L0 0Z" id="Shape" fill="none" fill-rule="evenodd" stroke="none" />
+        <path d="M6.5999 8.43719L6.5999 12L7.7999 12L7.7999 8.43719C10.1675 8.73239 11.9999 10.752 11.9999 13.2L2.3999 13.2C2.3999 10.781 4.19979 8.73989 6.59982 8.43721L6.5999 8.43719ZM7.2001 7.79998C5.2111 7.79998 3.6001 6.18898 3.6001 4.19998C3.6001 2.21098 5.2111 0.599976 7.2001 0.599976C9.1891 0.599976 10.8001 2.21098 10.8001 4.19998C10.8001 6.18898 9.1891 7.79998 7.2001 7.79998L7.2001 7.79998Z" id="Shape" fill="#5A6978" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

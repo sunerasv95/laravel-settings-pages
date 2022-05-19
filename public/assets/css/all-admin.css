@@ -1,0 +1,31 @@
+@import "../vendor/libs/bootstrap-touchspin/jquery.bootstrap-touchspin.min.css"; 
+
+@import "../vendor/libs/ion-rangeslider/css/ion.rangeSlider.min.css"; 
+
+@import "../vendor/libs/twitter-bootstrap-wizard/prettify.css"; 
+
+@import "../vendor/libs/select2/css/select2.min.css"; 
+
+@import "../vendor/libs/summernote/summernote-bs4.min.css"; 
+
+@import "../vendor/libs/bootstrap-datepicker/css/bootstrap-datepicker.min.css"; 
+
+@import "../vendor/libs/dropzone/min/dropzone.min.css"; 
+
+@import "../vendor/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css"; 
+
+@import "../vendor/libs/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css"; 
+
+@import "../vendor/libs/datatables.net-select-bs4/css//select.bootstrap4.min.css"; 
+
+@import "../vendor/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css"; 
+
+@import "../vendor/libs/select2/css/select2.min.css"; 
+
+@import "../vendor/libs/fullcalendar/fullcalendar.min.css"; 
+
+@import "flags.css";
+
+@import "main.css"; 
+
+
